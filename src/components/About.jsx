@@ -2,7 +2,7 @@ import { useState, useRef, useEffect } from "react";
 import { Code2, Palette, Zap } from "lucide-react";
 import Reveal from "./Reveal";
 
-const stack = ["React", "Vite", "JavaScript", "Framer Motion", "CSS", "Lenis", "Node"];
+const stack = ["Custom design", "Animation", "AI integration", "Performance", "Responsive", "SEO-ready"];
 
 const highlights = [
   { Icon: Palette, label: "Design-led", note: "Clean, modern interfaces that feel considered — not templated." },
