@@ -64,7 +64,7 @@ function About() {
             <div>
               <span className="eyebrow">About</span>
               <h2 className="about-title">
-                I design and build the whole thing — look, feel, and the smarts behind it.
+                I don&apos;t just make it look good. I make it work for your business.
               </h2>
               <p>
                 I&apos;m a web developer focused on business websites. I like projects where
